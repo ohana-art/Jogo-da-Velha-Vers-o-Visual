@@ -122,9 +122,9 @@ Histórico de partidas e estatísticas.
  Créditos
 
 Projeto desenvolvido como atividade prática do curso Técnico em Desenvolvimento de Sistemas.
-Autor(a): [Seu Nome Aqui]
-Instituição: CEM03
-Professor(a): [Nome do(a) Professor(a)]
+Autor(a): Giovanna Ohana da Silva Santos
+Instituição: Senac
+Professor(a):Alexandre Tolentino
 
 Estrutura de Pastas (sugerida)
  jogo_da_velha/
